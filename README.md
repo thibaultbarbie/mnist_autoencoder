@@ -1,4 +1,4 @@
-# mnist_autoencoder
+# Mnist Autoencoder
 Autoencoder in the chainer framework for the MNIST dataset
 
 
